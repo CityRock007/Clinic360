@@ -1,0 +1,11 @@
+Doctors / Patients / Admin → Clinic360 Web & Mobile App (Flutter)
+│
+│──> REST API (Python FastAPI / Node.js)
+│
+│──> Database (PostgreSQL / ReinHost Cloud DB)
+│
+│──> Secure File Storage (AWS S3 / ReinHost)
+│
+│──> Notifications (Twilio / SendGrid / Firebase)
+│
+│──> Hosting (ReinHost VPS / AWS Lightsail)
