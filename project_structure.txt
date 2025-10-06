@@ -1,0 +1,42 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    doctor_dashboard.dart
+    patient_dashboard.dart
+    appointment_screen.dart
+    chat_video_screen.dart
+    records_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    video_call_service.dart
+    notification_service.dart
+    storage_service.dart
+
+/backend
+  main.py
+  /routers
+    auth.py
+    appointments.py
+    records.py
+    billing.py
+  /controllers
+  /models
+  /schemas
+  /config
+    database.py
+    settings.py
+    storage.py
+
+/assets
+  /images
+  /icons
+  /mock_data
+
+/docs
+  system_architecture.png
+  api_endpoints.md
+  feature_list.md
